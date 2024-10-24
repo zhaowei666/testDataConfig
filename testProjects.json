@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Pendle",
+        "id": 1,
+        "vaultContractAddress": "0x47d64b21f54ca8bdf5b20189ec635c9176eed0fe",
+        "vaultChainId": "97",
+        "stakeContractAddress": "0x47d64b21f54ca8bdf5b20189ec635c9176eed0fe",
+        "stakeChainId": "97"
+    },
+    {
+        "name": "Lombard",
+        "id": 2,
+        "vaultContractAddress": "0x00",
+        "vaultChainId": "97",
+        "stakeContractAddress": "0x00",
+        "stakeChainId": "97"
+    }
+]
